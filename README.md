@@ -1,4 +1,4 @@
-# DataAnalysis
+# Organizational DataAnalysis
 
 Exploratory data analysis project: Sample Organizational Data pulled from Kaggle
 Using data set to perform an exploratory data analysis that asks plenty of questions to determine what the underlying data structure is, uncover trends.
